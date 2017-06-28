@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{0ED8563E-F642-4F8D-B8EE-335041A8803C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Xamarians.Utility.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sample/Sample/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Sample/Sample/MainPage.xaml.cs" Line="12" Column="2" />
+      <File FileName="Xamarians.Utilities.iOS/DS/MobileServices.cs" Line="78" Column="70" />
+      <File FileName="Xamarians.Utilities/Interface/IMobileServices.cs" Line="18" Column="1" />
+      <File FileName="Sample/Sample.Android/MainActivity.cs" Line="27" Column="3" />
+      <File FileName="Xamarians.Utility.Droid/DS/MobileServices.cs" Line="82" Column="10" />
+      <File FileName="Xamarians.Utilities.iOS/Helpers/Reachability.cs" Line="15" Column="6" />
+      <File FileName="Sample/Sample.iOS/AppDelegate.cs" Line="33" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Xamarians.Utilities" expanded="True">
+            <Node name="Sample" expanded="True">
+              <Node name="Sample" expanded="True">
+                <Node name="MainPage.xaml" expanded="True">
+                  <Node name="MainPage.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Sample.Android" expanded="True" />
+            </Node>
+            <Node name="Xamarians.Utilities.iOS" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="DS" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/arjun/Desktop/Xamarians.Utilities/Xamarians.Utilities.iOS/DS/MobileServices.cs" relfile="Xamarians.Utilities.iOS/DS/MobileServices.cs" line="61" column="1" />
+      <Breakpoint file="/Users/arjun/Desktop/Xamarians.Utilities/Xamarians.Utilities.iOS/DS/MobileServices.cs" relfile="Xamarians.Utilities.iOS/DS/MobileServices.cs" line="71" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Sample.Sample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.3f7d5c1b270e5c35b26219592fbb4059eadfbc01" />
+  <MultiItemStartupConfigurations />
+</Properties>

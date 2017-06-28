@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Sample"
+             x:Class="Sample.MainPage">
+    <ScrollView>
+    <StackLayout Padding="20">
+        <Button Text="Send Sms" BackgroundColor="Aqua" HorizontalOptions="FillAndExpand" Clicked="OnSmsButtonClicked"> </Button>
+        <Button Text="Call" BackgroundColor="Aqua" HorizontalOptions="FillAndExpand" Clicked="OnCallButtonClicked"></Button>
+        <Button Text="Send Email" BackgroundColor="Aqua" HorizontalOptions="FillAndExpand" Clicked="OnEmailButtonClicked"></Button>
+        <Button Text="Open Camera" Clicked="OnCameraClicked" BackgroundColor="Aqua" HorizontalOptions="FillAndExpand"></Button>
+        <Button Text="Open PHOTO Gallery" Clicked="OnPhotoGalleryClicked" BackgroundColor="Aqua" HorizontalOptions="FillAndExpand"></Button>
+        <Button Text="Open VIDEO Gallery" Clicked="OnVideoGalleryClicked" BackgroundColor="Aqua" HorizontalOptions="FillAndExpand"></Button>
+        <Button Text="Resize Image" Clicked="OnResizeImageClicked" BackgroundColor="Aqua" HorizontalOptions="FillAndExpand"></Button>
+        <Button Text = "Open Audio Picker" Clicked="OnAudioPickerClicked" BackgroundColor="Aqua" HorizontalOptions="FillAndExpand"></Button>
+        <Image x:Name="image"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
